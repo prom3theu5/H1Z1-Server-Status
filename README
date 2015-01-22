@@ -1,0 +1,7 @@
+**A very simple site to show server status's for H1Z1 the game.**
+
+I used C# for the api (web api 2.0) as I have azure space.
+It would be better to make a direct call yourself to the Sony Api on the following link: http://data.soe.com/json/status/h1z1
+
+
+
