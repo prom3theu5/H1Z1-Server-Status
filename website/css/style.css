@@ -1,0 +1,20 @@
+.badge-low{
+background: #43c83c !important;
+color:white;
+}
+.badge-medium{
+background: #E5F21D !important;
+color:#000;
+}
+.badge-high, .badge-veryh{
+background: #FF00C2 !important;
+color:white;
+}
+.badge-offline{
+background: salmon !important;
+color:#000;
+}
+#banner{
+margin-top:20px;
+margin-bottom:20px;
+}
