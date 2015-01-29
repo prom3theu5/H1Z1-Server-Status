@@ -1,3 +1,7 @@
+.nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
+}
 .badge-low{
 background: #43c83c !important;
 color:white;
